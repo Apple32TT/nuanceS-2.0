@@ -1,0 +1,56 @@
+header
+{
+	background-color: grey;
+	background-attachment: fixed ;
+}
+
+
+
+body
+{
+	background-color: black;
+	
+}
+
+p
+{
+	color:white;
+	padding: 10px;
+	margin-left: 12px;
+}
+h1
+{
+	color:white;
+}
+h2
+{
+	color:white;
+}
+
+.Chateaux
+{
+	float: left;
+}
+
+.Vice_City
+{
+	float: right;
+}
+
+.PS1
+{
+	float: left;
+
+}
+
+a:visited
+{
+	color: red; 
+}
+article
+{
+	width: 1000px;
+	border: 60px solid black;
+	
+}
+
